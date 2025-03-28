@@ -26,6 +26,8 @@ We utilize the following data from ERA5 reanalysis:
 
 *Figure 2: Study area covering Brittany and Normandy coasts*
 
+For detailed experiments on forecasting, refer to the notebook [EXPERIMENTS.ipynb](Notebooks/EXPERIMENTS.ipynb).
+
 ## Model Architecture
 The implementation consists of two main components:
 
